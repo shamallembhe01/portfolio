@@ -198,6 +198,7 @@ p{
 .aboutmerow img{
     border-radius: 12px;
    width: 500px;
+    max-width: 450px;
 }
 .aboutmerow p{
     margin-top: 1rem;
