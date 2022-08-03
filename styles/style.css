@@ -314,7 +314,7 @@ p{
     }
     .con-left{
         text-align: center;
-        margin-left: 10rem;
+        width: 100%;
     }
     .contact-head p{
         padding: 0rem 2rem 0 2rem;
