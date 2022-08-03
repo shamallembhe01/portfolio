@@ -255,6 +255,9 @@ p{
         position: relative;
         left: 0;
     }
+     .toup{
+        visibility: hidden;
+    }
     .aboutcon{
         display: inline-block;
     }
