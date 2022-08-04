@@ -81,6 +81,9 @@ p{
 .navbar-toggler {
     border-color: rgb(255, 255, 255);
 }
+.navbar>.container-fluid{
+    justify-content: space-evenly;
+}
 .navbar-brand button{ color: #fff;}
 .navbar .nav-link:hover { color:#fff; } 
 .navbar .navbar-brand:hover { color:#fff; } 
@@ -288,9 +291,6 @@ p{
     }
     .navbar-nav{
         padding-right: 0;
-    }
-    .navbar-toggler{
-      margin-left: 11rem;
     }
  
     .home-heading{
