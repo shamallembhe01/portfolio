@@ -247,6 +247,9 @@ p{
         padding-left: 0;
         text-align: center;
     }
+    .navbar-brand{
+        visibility: hidden;
+    }
     .nav-item button{
         margin-left: 0;
     }
